@@ -1,13 +1,10 @@
-# California Contract Killer
+### Original credits: Andy Clarke and Stuff & Nonsense Ltd. for crafting [the original killer contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
 
-### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting [the original killer contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
+#### Secondary credits: Samuel Sycamore [American English version](https://github.com/samuelsycamore/contract-killer)
 
-#### That said, I don't love some of the more cheeky British humor baked in, and there are minor elements of the phrasing and grammar (plus spelling) that I would never use as an American.
+#### Personal edits and flavorings to fit my needs
 
-#### This edit reflects the kind of language that feels more appropriate to me as someone who resides in the Bay Area, California. I have also included specific text to reflect the additional services that I offer. Your mileage may vary!
-
-##### Shout-out to all the homies from #100devs! I hope you find this helpful!
-
+##### #100devs
 
 # The contract
 #### Between [company name]
